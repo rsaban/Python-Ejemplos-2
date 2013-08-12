@@ -1,0 +1,700 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"que",
+				"queryPorCentroCount"
+			],
+			[
+				"tr",
+				"try	Try/Except"
+			],
+			[
+				"get",
+				"get_object"
+			],
+			[
+				"cbx",
+				"cbxGrupo"
+			],
+			[
+				"get_ac",
+				"get_active_text"
+			],
+			[
+				"pdf",
+				"pdfBin"
+			],
+			[
+				"q",
+				"queryPorCentro"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"n",
+				"NombreCentro"
+			],
+			[
+				"N",
+				"NombreCentro"
+			],
+			[
+				"rbp",
+				"rbPorFecha"
+			],
+			[
+				"est",
+				"estadoResidentes"
+			],
+			[
+				"cen",
+				"CENTRO"
+			],
+			[
+				"ls",
+				"lsEstado"
+			],
+			[
+				"cbxc",
+				"cbxNombreCentro"
+			],
+			[
+				"lstip",
+				"lsTipologiaCentro"
+			],
+			[
+				"set_",
+				"set_text"
+			],
+			[
+				"tb",
+				"tbNombre"
+			],
+			[
+				"quer",
+				"queryVerPDF"
+			],
+			[
+				"pdfs",
+				"pdfSl"
+			],
+			[
+				"sel",
+				"selectorArchivos"
+			],
+			[
+				"se",
+				"selectorArchivos"
+			],
+			[
+				"rbPo",
+				"rbPorCentro"
+			],
+			[
+				"consul",
+				"consultasSeguimientos"
+			],
+			[
+				"cb",
+				"cbxDia"
+			],
+			[
+				"set",
+				"set_text"
+			],
+			[
+				"lbnom",
+				"lbNombreCentro"
+			],
+			[
+				"lb",
+				"lbTipologia"
+			],
+			[
+				"lbti",
+				"lbTipoCentro"
+			],
+			[
+				"lbn",
+				"lbNombre"
+			],
+			[
+				"in",
+				"INFORMES"
+			],
+			[
+				"expd",
+				"expdteExiste"
+			],
+			[
+				"centro",
+				"centroID"
+			],
+			[
+				"ex",
+				"expdteExiste"
+			],
+			[
+				"exp",
+				"expdteExiste"
+			],
+			[
+				"cent",
+				"centroSeleccionado"
+			],
+			[
+				"ven",
+				"ventanaAnadirCentro"
+			],
+			[
+				"qu",
+				"queryInsertInforme"
+			],
+			[
+				"queryi",
+				"queryInsertDepend"
+			],
+			[
+				"nombre",
+				"nombreDep"
+			],
+			[
+				"cbxt",
+				"cbxTipologiaCentro"
+			],
+			[
+				"ge",
+				"get_active_text"
+			],
+			[
+				"ana",
+				"anadirSeguimiento"
+			],
+			[
+				"a",
+				"anadirSeguimiento"
+			],
+			[
+				"conta",
+				"contador"
+			],
+			[
+				"tv",
+				"tvBusqueda"
+			],
+			[
+				"lbmo",
+				"lbMostrarDNI"
+			],
+			[
+				"vent",
+				"ventana"
+			],
+			[
+				"fich",
+				"fichaUsuario"
+			],
+			[
+				"ventan",
+				"ventanaBusqueda"
+			],
+			[
+				"ve",
+				"ventanaBusqueda"
+			],
+			[
+				"bt",
+				"btVer"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"rb",
+				"rbExpdte"
+			],
+			[
+				"E",
+				"encontrado"
+			],
+			[
+				"c",
+				"cursor2"
+			],
+			[
+				"query",
+				"queryExpdte"
+			],
+			[
+				"curso",
+				"cursor2"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"colu",
+				"columna1"
+			],
+			[
+				"encont",
+				"encontrado"
+			],
+			[
+				"u",
+				"USUARIOS"
+			],
+			[
+				"car",
+				"cargarComboDias"
+			],
+			[
+				"FECH",
+				"fechaNac"
+			],
+			[
+				"tele",
+				"telefono2"
+			],
+			[
+				"telfo",
+				"telefono2"
+			],
+			[
+				"te",
+				"telefono2"
+			],
+			[
+				"tel",
+				"telefono1"
+			],
+			[
+				"tbte",
+				"tbTelefono2"
+			],
+			[
+				"w",
+				"widget"
+			],
+			[
+				"venta",
+				"ventanaEleccion"
+			],
+			[
+				"main",
+				"main_quit"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"cone",
+				"conexion"
+			],
+			[
+				"Conec",
+				"connectBD"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 1189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "anadir.py",
+			"settings":
+			{
+				"buffer_size": 7552,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "buscar.py",
+			"settings":
+			{
+				"buffer_size": 4400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "actualizar.py",
+			"settings":
+			{
+				"buffer_size": 3749,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conexion.py",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "consultas.py",
+			"settings":
+			{
+				"buffer_size": 5403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "estadoResidentes.py",
+			"settings":
+			{
+				"buffer_size": 2565,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rafa/MIS APLICACIONES/BETAS/TRACING WINDOWS/consultas.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/TRACING/estadoResidentes",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/TRACING/main.py",
+		"/home/rafa/MIS APLICACIONES/ALPHAS/MySOCIAL/conexion.py",
+		"/home/rafa/PYTHON/Sublime Text/bdUsuarios/bdUsuarios.py",
+		"/home/rafa/.config/sublime-text-2/Packages/User/def.sublime-snippet",
+		"/home/rafa/PYTHON/Sublime Text/bdUsuarios con conexion en modulo separado y encriptacion de clave/bdUsuarios.py",
+		"/home/rafa/PYTHON/Sublime Text/bdUsuarios/conexion.py",
+		"/home/rafa/PYTHON/Sublime Text/2 Ventanas/form1.py",
+		"/home/rafa/PYTHON/Proyectos Geany/PROYECTO 1/form1.py",
+		"/home/rafa/PYTHON/Sublime Text/Proyecto1.py",
+		"/home/rafa/.config/sublime-text-2/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			"close",
+			"ano"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"settings":
+					{
+						"buffer_size": 1189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1095,
+								1095
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 459.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "anadir.py",
+					"settings":
+					{
+						"buffer_size": 7552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 938.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "buscar.py",
+					"settings":
+					{
+						"buffer_size": 4400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "actualizar.py",
+					"settings":
+					{
+						"buffer_size": 3749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2787,
+								2787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 782.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "conexion.py",
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "consultas.py",
+					"settings":
+					{
+						"buffer_size": 5403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5343,
+								5343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2149.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "estadoResidentes.py",
+					"settings":
+					{
+						"buffer_size": 2565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 755.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
